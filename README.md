@@ -1,5 +1,5 @@
 # Sports-Sales2022 
-(Dataset and SQL queries files are attached)
+(Dataset, SQL queries files, dashboard images are attached)
 
 In this financial analysis project, I performed exploratory analysis to gain insights on revenue, profit, and customer satisfaction. 
 
